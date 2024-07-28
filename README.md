@@ -6,7 +6,7 @@ This repository contains challenges and exercises related to Deep Learning creat
 ### Repository Structure
 The repository consists of two notebooks:
 
-#### 1. Regression Models Applied to Time Series (scikit-learn)
+#### 1. Sequence Classification
 In this challenge, the Internet Movie Database (IMDb) will be used to create a model for classifying movie reviews as positive or negative with Recurrent Neural Networks (RNNs). To achieve that we used TensorFlow and Keras libraries.
 - Dataset used: IMDb
 
